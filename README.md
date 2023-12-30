@@ -1,1 +1,1 @@
-# Course-Management-Application-for-University-using-Firebase
+# Course-Management-Application-for-University
