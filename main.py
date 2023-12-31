@@ -1,5 +1,3 @@
-print("\n========== Course Management Application | Firebase Realtime Database ==========\n")
-
 # Importing the funtion packages.
 import add_student as adds
 import add_instructor as addi 
@@ -16,9 +14,9 @@ header = """
 ║  │ ││ │├┬┘└─┐├┤   ║║║├─┤│││├─┤│ ┬├┤ │││├┤ │││ │   ╠═╣├─┘├─┘│  ││  ├─┤ │ ││ ││││
 ╚═╝└─┘└─┘┴└─└─┘└─┘  ╩ ╩┴ ┴┘└┘┴ ┴└─┘└─┘┴ ┴└─┘┘└┘ ┴   ╩ ╩┴  ┴  ┴─┘┴└─┘┴ ┴ ┴ ┴└─┘┘└┘
 
-                                       using
-                           | Firebase Realtime Database |
-                                 -- version 1.0.0 --
+                                      using
+                          | Firebase Realtime Database |
+                                -- version 1.0.0 --
                                                                
 ----------------------------------------------------------------------------------
 """
