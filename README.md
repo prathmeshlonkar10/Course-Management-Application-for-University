@@ -6,10 +6,10 @@
 ## Highlight
 This simple project consists of an application for managing courses for the University. For the backend, the Firebase real-time database has been used to store and manage the data of the application. The database stores the following information about students, instructors, courses, and their relationships.
 
-·	Student: ID(e.g., "s100"), Name(e.g., "Patrick Jane"), and Program(e.g., "Applied Data Science"). 
-·	Instructor: ID(e.g., "i100"), Name(e.g., "Jessica Pearson"), and Department(e.g., "Statistics").
-·	Course: Number(e.g., "DSCI 551"), Title(e.g., "Foundations of Data Management"), and Semester(e.g., "Fall 2023").
-·	Relationships: Students take Courses, and Instructors teach Courses.
+-	Student: ID(e.g., "s100"), Name(e.g., "Patrick Jane"), and Program(e.g., "Applied Data Science"). 
+-	Instructor: ID(e.g., "i100"), Name(e.g., "Jessica Pearson"), and Department(e.g., "Statistics").
+-	Course: Number(e.g., "DSCI 551"), Title(e.g., "Foundations of Data Management"), and Semester(e.g., "Fall 2023").
+-	Relationships: Students take Courses, and Instructors teach Courses.
 
 A student can take multiple courses in multiple semesters and an instructor can teach a course in multiple semesters. Accordingly, the data for Students and Instructors can be associated with data for Courses to form relationships.
 
