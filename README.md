@@ -14,6 +14,12 @@ This simple project consists of an application for managing courses for the Univ
 A student can take multiple courses in multiple semesters and an instructor can teach a course in multiple semesters. Accordingly, the data for Students and Instructors can be associated with data for Courses to form relationships.
 
 
+## Technologies used
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+![](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
+
+
 ## Actions
 - Add Data: This action is used to add new data for student, instructor, or course by providing the parameters given above
 - Associate Data: This action builds a "Student takes Course" or an "Instructor teaches Course" relationship.
